@@ -8,4 +8,4 @@ I will be rolling out updates to improve mivra .
 
 This version is 1.70
 Created by Naod Tadele
-for feedbaack or problems go to :https://docs.google.com/forms/d/1zETpMn9q4_bpPrn58fwpIlNdvqah_hXSudxO03Gj1qc/edit
+for feedbaack or problems go to:  https://docs.google.com/forms/d/1zETpMn9q4_bpPrn58fwpIlNdvqah_hXSudxO03Gj1qc/edit
